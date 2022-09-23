@@ -2,7 +2,7 @@
 
 ## 360 NEWSPORTAL IS A WEB APPLICATION I DEVELOPED WITH PHP LARAVEL, MORE LIKE A CMS WHY? BECAUSE IT POSSESS ALL FEATURES OF MOST CMS BUILDER....
 
-Basically i developed this application to perform similar task which other cms application perform, its a complete web application package that i can further invest in in the future.
+Basically, i developed this application to perform a similar task that other cms applications perform, it's a complete web application package that i can further invest in in the future.
 
 it just a web app running on one of the most poerful php framework called laravel,what this app does is for visitors to read recent news update worldwide as well signup on the application and publish thier own story as well...Its just CMS FRIENDLY DESIGN.
 ## APP FEATURES
